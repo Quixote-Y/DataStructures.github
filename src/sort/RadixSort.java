@@ -3,6 +3,7 @@ package sort;
 import java.util.Arrays;
 
 //基数排序  基于桶排序
+//时间复杂度 nxk k:桶的数量
 public class RadixSort {
 
 	public static void main(String[] args) {
